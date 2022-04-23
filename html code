@@ -1,0 +1,27 @@
+<html>
+
+<head>
+    <title>Q.N.1</title>
+    <style>
+        .sazzad {
+            border: 1px solid green;
+            padding: 10px;
+            margin-right: 890px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="sazzad">
+        <center><b><u> Computer Network</u></b> </center>
+        <p>A <b>computer network</b>, often simply refered to as a network, is a collection of hardware components and
+            computers interconnected by <u>communication</u>
+            channels that allow sharing of resources and information. Where at least once processin one device is able
+            to <b>send/receive</b>
+            data to/from at least one process residing in a remote device, then the two devices are said to be in a
+            network. </p>
+    </div>
+
+</body>
+
+</html>
